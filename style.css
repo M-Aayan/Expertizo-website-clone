@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Flow+Circular&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+
 *{
     box-sizing: border-box;
 }
@@ -5,6 +8,19 @@
 body{
     color: #444444;
     font-family: "Open sans" , sans-serif;
+    background-color: white;
+}
+
+#header{
+    background-color: rgb(243, 243, 243);
+    box-shadow: 2px 5px 500px #b6b5b5;
+    position: fixed;
+    top: 0;
+    height: 71.5px;
+    width: 1265px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 100;
 }
 
 
@@ -46,21 +62,22 @@ nav a:hover{
     width: 546px;
     padding: 0px 12px;
     margin-left: 50px;
+    margin-top: 125px;
 }
 
 
 .top-description h1{
     margin-top: 70px;
     font-size: 44px;
-    font-weight: 700;
+    font-weight: bolder;
     color: #012970;
     font-family: "Nunito", sans-serif;
 }
 
 
 .top-description h2{
-    font-size: 22px;
-    font-weight: lighter;
+    font-size: 24px;
+    font-weight: 600;
     font-family: "Nunito", sans-serif;
 }
 
@@ -71,7 +88,7 @@ nav a:hover{
     padding: 15px 57px;
     border: 1px solid #4154f1;
     border-radius: 7px;
-    box-shadow: 2px 5px 130px #4154f1;
+    box-shadow: 2px 5px 180px #4154f1;
     font-weight: lighter;
 }
 
@@ -94,9 +111,65 @@ nav a:hover{
     width: 580px;
     display: flex;
     flex-direction: column;
-    margin-left: 625px;
-    margin-top: -510px;
-    
+    margin-left: 635px;
+    margin-top: -500px;
 }
 
+
+.main-about-section{
+    min-width: 1116px;
+    height: 423.391px;
+    padding: 0px 12px;
+    margin: 0px 61.500px;
+    margin-top: 100px;
+}
+
+
+.main-about-section div{
+    width: 558px;
+    height: 423.39px;
+    padding: 40px;
+    background-color: aliceblue;
+}
+
+
+.main-about-section div h3{
+    color: #4154f1;
+    font-size: 16px;
+    font-family: "Nunito" , sans-serif;
+    margin: 0px 0px 8px;
+}
+
+
+.main-about-section div h2{
+    color: #012970;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.main-about-section div p{
+    color: #444444;
+    font-size: 14px;
+    font-family: "Open Sans" , sans-serif;
+    line-height: 25px;
+    margin: 15px 0px 30px;
+}
+
+
+.main-about-section img{
+    position: relative;
+    left: 558px;
+}
+
+.about-content{
+    position: relative;
+    top: -426px;
+
+}
+
+
+    
+    
 
