@@ -166,10 +166,57 @@ nav a:hover{
 .about-content{
     position: relative;
     top: -426px;
-
 }
 
 
-    
+
+.technologies-section{
+   width: 1257px;
+   height: 336.09px;
+   padding: 60px 0px;
+   margin-top: 70px;
+}
+
+
+.technologies-container{
+    max-width: 1116px;
+    max-height: 216.094px;
+    padding: 0px 12px;
+    margin: 0px 58.500px;
+}
+
+
+.section-header{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.section-header h2{
+    display: block;
+    font-size: 13px;
+    font-family: "Nunito" , sans-serif;
+    color: #4154f1;
+    margin: 0px;
+}
+
+.section-header p{
+    color: #012970;
+    font-size: 38px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
     
 
+.technologies-section-images{
+    width: 1116px;
+    height: 108.5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#bullet-image{
+    display: flex;
+    justify-content: center;
+}
