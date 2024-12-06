@@ -179,8 +179,8 @@ nav a:hover{
 
 
 .technologies-container{
-    max-width: 1116px;
-    max-height: 216.094px;
+    width: 1116px;
+    height: 216.094px;
     padding: 0px 12px;
     margin: 0px 58.500px;
 }
@@ -219,4 +219,415 @@ nav a:hover{
 #bullet-image{
     display: flex;
     justify-content: center;
+}
+
+
+
+.service-section{
+    width: 1257px;
+    height: 1088.38px;
+    padding: 60px 0px;
+}
+
+
+.service-container{
+    width: 1140px;
+    height: 968.38px;
+    padding: 0px 12px;
+    margin: 0px 58.500px;
+}
+
+
+.service-section-header{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.service-section-header h2{
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0px;
+    color: #4154f1;
+    text-transform: uppercase;
+    font-family: "Nunito" , sans-serif;
+}
+
+
+.service-section-header p{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 700;
+    color: #012970;
+}
+
+
+
+.services-boxes{
+    display: flex;
+    flex-wrap: wrap;
+    margin: -24px -12px 0px -12px;
+    width: 1140px;
+    height: 884.781px;
+}
+
+
+.box1{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+
+.box1-info{
+    border-bottom: 3px solid #2db6fa;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box1-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+
+.box1-info:hover{
+    background-color:#20b3fc;
+    color: white;
+}
+
+
+.box1-svg{
+    color: #20b3fc;
+    background-color: #dbf3fe;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box1-svg:hover{
+    background-color: #ffffff;
+}
+
+
+.box2{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+
+.box2-info{
+    border-bottom: 3px solid #f68c09;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box2-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+.box2-info:hover{
+    background-color:#f68c09;
+    color: white;
+}
+
+.box2-svg{
+    color: #f68c09;
+    background-color: #fde3c4;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+.box2-svg:hover{
+    background-color: #ffffff;
+}
+
+
+.box3{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+.box3-info{
+    border-bottom: 3px solid #08da4e;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box3-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+
+.box3-info:hover{
+    background-color:#08da4e;
+    color: white;
+}
+
+.box3-svg{
+    color: #08da4e;
+    background-color: #cffddf;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+.box3-svg:hover{
+    background-color: #ffffff;
+}
+
+
+.box4{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+.box4-info{
+    border-bottom: 3px solid #e9222f;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box4-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+
+.box4-info:hover{
+    background-color:#e9222f;
+    color: white;
+}
+
+.box4-svg{
+    color: #e9222f;
+    background-color: #fef7f8;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+.box4-svg:hover{
+    background-color: #ffffff;
+}
+
+
+.box5{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+
+.box5-info{
+    border-bottom: 3px solid #b50edf;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box5-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+.box5-info:hover{
+    background-color:#b50edf;
+    color: white;
+}
+
+.box5-svg{
+    color: #b50edf;
+    background-color: #f8e4fd;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+.box5-svg:hover{
+    background-color: #ffffff;
+}
+
+
+.box6{
+    width: 356px;
+    height: 415.188px;
+    padding: 0px 12px;
+    margin: 24px 0px 0px 0px;
+}
+
+
+.box6-info{
+    border-bottom: 3px solid #f51f9c;
+    box-shadow: 0px 0px 20px rgba(1,  41,  112, 0.88);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 5px;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+
+.box5-info h3{
+    font-weight: 700;
+    font-family: "Nunito" , sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    margin-top: 0px;
+}
+
+
+.box6-info:hover{
+    background-color:#f51f9c;
+    color: white;
+}
+
+
+.box6-svg{
+    color: #f51f9c;
+    background-color: #feecf7;
+    font-size: 36px;
+    padding: 25px 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 25px;
+    display: inline-block;
+    line-height: 0;
+    transition-property: all;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    transition-behavior: normal;
+}
+
+.box5-svg:hover{
+    background-color: #ffffff;
 }
