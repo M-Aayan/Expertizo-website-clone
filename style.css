@@ -995,4 +995,107 @@ nav a:hover{
 }
 
 
-/* to be continue */
+
+.portfolio-section{
+    padding: 60px 0px;
+    overflow: hidden;
+    display: block;
+    width: 1257px;
+    height: 1675.590px;
+}
+
+
+.portfolio-section-container{
+    width: 1116px;
+    height: 1675.590px;
+    padding: 0px 12px;
+    margin: 0px 58.500px;
+}
+
+
+.portfolio-section-header{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+.portfolio-section-header h2{
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0px;
+    color: #4154f1;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+
+
+
+.portfolio-section-header p{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 700;
+    color: #012970;
+}
+
+
+
+.portfolio-section-below-header-widgets{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1140px;
+    height: 72px;
+    margin: 0px -12px;
+}
+
+
+.below-header-widgets{
+    display: flex;
+    justify-content: center;
+    width: 1116px;
+    height: 72px;
+    padding: 0px 12px;
+}
+
+
+#below-header-widgets-lists ul{
+    margin: 0px 426.312px 25px 426.312px;
+    list-style: none;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    padding: 2px 15px;
+    width: 233.359px;
+    height: 43px;
+}
+
+
+#below-header-widgets-lists li{
+    display: inline-block;
+    padding: 8px 20px 10px 20px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0px 4px 8px 4px;
+    border-radius: 50px;
+    border: 1px solid white;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+
+
+#below-header-widgets-lists li:hover{
+    color: #4154f1;
+    border-color:#4154f1;
+}
+
+
+
+
