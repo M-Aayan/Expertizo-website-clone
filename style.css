@@ -1001,7 +1001,7 @@ nav a:hover{
     overflow: hidden;
     display: block;
     width: 1257px;
-    height: 1675.590px;
+    height: 1770.590px;
 }
 
 
@@ -1096,6 +1096,310 @@ nav a:hover{
     border-color:#4154f1;
 }
 
+.portfolio-boxes-with-images-and-pictures{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1140px;
+    height: 1520px;
+    margin: -24px -12px 0px -12px;
+    justify-content: space-evenly;
+}
+
+
+.box1-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box1-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box2-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box2-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box3-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box3-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box4-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box4-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+
+.box5-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box5-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box6-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box6-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+
+.box7-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+
+.box7-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box8-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box8-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box9-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box9-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+
+.box10-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+
+.box10-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+.box11-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.box11-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
+
+
+
+
+.box12-image img{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #ecf3ff;
+    padding: 0px 12px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+
+.box12-image img:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px #7aa3eb;
+    height: 356px;
+    width: 356;
+    padding: 0px 12px;
+    margin-top: 24px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-behavior: normal;
+    transition-delay: 0s;
+
+}
 
 
 
