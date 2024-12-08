@@ -2478,15 +2478,453 @@ nav a:hover{
 }
 
 
-/* to be continue  */
+.footer{
+    width: 1263px;
+    height: 665.69px;
+    background: #f6f9ff;
+    padding: 0px 0px 30px 0px;
+    font-size: 14px;
+}
+
+.footer-newsletter{
+    width: 1263px;
+    height: 206px;
+    padding: 50px 0;
+    background: #f6f9ff;
+    border-top: 1px solid #e1ecff;
+}
+
+
+.footer-container{
+    width: 1116px;
+    height: 105px;
+    padding: 0px 12px;
+    margin: 0px 61.500px;
+}
 
 
 
+.footer-newsletter-info-and-flexes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    width: 1140px;
+    height: 105px;
+    margin: 0px -12px;
+}
+
+
+.ournewsletter-heading{
+    text-align: center;
+    width: 1116px;
+    height: 34px;
+    padding: 0px 12px;
+}
+
+.ournewsletter-heading h4{
+    font-size: 24px;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    line-height: 1;
+    font-weight: 700;
+    color: #012970;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.ournewsletter-email-bar{
+    width: 570px;
+    height: 71px;
+    padding: 0px 12px;
+}
+
+
+.ournewsletter-email-bar form{
+    margin-top: 20px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 4px;
+    border: 1px solid #e1ecff;
+    width: 546px;
+    height: 51px;
+}
+
+.ournewsletter-email-bar form input{
+    border: 0;
+    padding: 8px;
+    width: 384px;
+    height: 37px;
+    outline: none;
+}
+
+
+.email-bar-button{
+    background: #4154f1;
+    color: #fff;
+    font-size: 16px;
+    padding: 0px 30px;
+    position: absolute;
+    width: 133.02px;
+    height: 49px;
+    left: 410.984px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+    border: none;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    border-top-right-radius: 0.375rem;
+    border-bottom-right-radius: 0.375rem;
+}
+
+
+.email-bar-button:hover{
+    background: #233bec;
+}
+
+
+.footer-top{
+    width: 1263px;
+    height: 349.19px;
+    background: white url(footer-bg.png) no-repeat right top;
+    background-size: contain;
+    border-top: 1px solid #e1ecff;
+    border-bottom: 1px solid #e1ecff;
+    padding: 60px 0 30px 0;
+}
+
+
+.footer-top-container{
+    width: 1116px;
+    height: 281.188px;
+    padding: 0px 12px;
+    margin: 0px 61.500px;
+}
+
+
+.footer-top-container-flexes{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1140px;
+    height: 281.188px;
+    margin: -24px -12px 0px -12px;
+}
+
+
+.footer-top-inside-flexes-expertizo-info{
+    margin-bottom: 30px;
+    width: 451px;
+    height: 227.188px;
+    margin: 24px 0px 30px 0px;
+}
+
+.picture-with-link{
+    width: 451px;
+    height: 39.984px;
+    padding-bottom: 16px;
+    align-items: center;
+}
+
+
+.picture-with-link img{
+    width: 144.844px;
+    height: 39.984px;
+    margin-right: 6px;
+}
+
+
+.footer-top-inside-flexes-expertizo-info p{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.social-links{
+    margin-top: 16px;
+    width: 475px;
+    height: 22.500px;
+}
+
+.social-links a{
+    font-size: 20px;
+    display: inline-block;
+    color: rgba(1, 41, 112, 0.5);
+    line-height: 0;
+    margin-right: 10px;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+.social-links-facebook:hover{
+    color: #2d4d94;
+}
+
+.social-links-linkdin:hover{
+    color: #0077b5;
+}
+
+
+.footer-top-inside-flexes-expertizo-useful-links{
+    margin-bottom: 30px;
+    margin-top: 24px;
+    padding: 0px 12px;
+    width: 190px;
+    height: 227.188px;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: #012970;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 12px;
+    font-family: "Nunito" , sans-serif;
+    line-height: 1.2;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 166px;
+    height: 160px;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links ul li{
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links ul li i{
+    padding-right: 2px;
+    color: #d0d4fc;
+    font-size: 12px;
+    line-height: 0;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links ul li a{
+    color: #013289;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    display: inline-block;
+    line-height: 1;
+    text-decoration: none;
+}
+
+.footer-top-inside-flexes-expertizo-useful-links ul li a:hover{
+    color: #233bec;
+}
 
 
 
+.footer-top-inside-flexes-expertizo-Our-solutions{
+    margin-bottom: 30px;
+    margin-top: 24px;
+    padding: 0px 12px;
+    width: 190px;
+    height: 227.188px;
+}
+
+
+.footer-top-inside-flexes-expertizo-Our-solutions h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: #012970;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 12px;
+    font-family: "Nunito" , sans-serif;
+    line-height: 1.2;
+}
+
+
+.footer-top-inside-flexes-expertizo-Our-solutions ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 166px;
+    height: 160px;
+}
+
+
+.footer-top-inside-flexes-expertizo-Our-solutions ul li{
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+
+.footer-top-inside-flexes-expertizo-Our-solutions ul li i{
+    padding-right: 2px;
+    color: #d0d4fc;
+    font-size: 12px;
+    line-height: 0;
+}
+
+.footer-top-inside-flexes-expertizo-Our-solutions ul li a{
+    color: #013289;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    display: inline-block;
+    line-height: 1;
+    text-decoration: none;
+}
+
+
+.footer-top-inside-flexes-expertizo-Our-solutions ul li a:hover{
+    color: #233bec;
+}
+
+
+.footer-top-inside-flexes-expertizo-contact-us{
+    margin-top: 24px;
+    padding: 0px 12px;
+    width: 285px;
+    height: 257.188px;
+}
+
+
+.footer-top-inside-flexes-expertizo-contact-us h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: #012970;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 12px;
+    font-family: "Nunito" , sans-serif;
+    line-height: 1.2;
+}
+
+
+.footer-top-inside-flexes-expertizo-contact-us p{
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.footer-bottom{
+    width: 1140px;
+    height: 80.5px;
+    padding: 0px 12px;
+    margin: 0px 61.500px;
+}
+
+.copyright{
+    text-align: center;
+    padding-top: 30px;
+    color: #012970;
+}
+
+
+.cloned{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #012970;
+}
+
+
+.cloned a{
+    color: #4154f1;
+    text-decoration: none;
+}
+
+.cloned a:hover{
+    color: #233bec;
+}
+
+
+.cloned i{
+    margin-right: 10px;
+    color: #012970;
+}
+
+.back-to-top{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #4154f1;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    transition: 0.3s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+.back-to-top:hover{
+    background-color: #233bec;
+    color: #ffffff;
+}
+
+
+.for-animation{
+    display: flex;
+    position: relative;
+    text-align: left;
+    font-size: 15px;
+    font-weight: lighter;
+    color: red;
+    width: fit-content;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    animation-name: warninganimation;
+    animation-duration: 8s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
 
 
 
+@keyframes warninganimation{
+    0%{
+        opacity: 0;
+        right: 0px;
+        left: 0px;
+    }
 
+    50%{
+        opacity: 2;
+        right: 640px;
+        left: 640px;
+    }
 
+    100%{
+        opacity: 0;
+        right: 0px;
+        left: 0px;
+    }
+
+}
